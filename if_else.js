@@ -120,30 +120,27 @@
 
 // Activity 7
 
-let text = `jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi`;
+// const text = `jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi`;
 
-const vowels = [`a`, `e`, `i`, `o`, `u`];
+// let vowels = text.charAt [`a`, `e`, `i`, `o`, `u`];
 
-for (let i = 0; i <string.length, i++;)
+// if (i = vowels){charAt++; }
 
-{ let text = string[i].toLowerCase(); 
+// for ( vowels = 0; i <text.slice, i++;);
 
-if (text ==`a` || letter ==`e` || letter == `I` || letter == `i` || leter == `o` || letter == `u`);{count++} }
+//     {
+//     // console.log(`${text}`);
 
-
-if (vowels.includes(text)){count++}
-
-
-
- {
+//     console.log(`${vowels}`);
+// }
 
 
-    console.log(text.slice);
-
-    console.log(lastCh);
 
 
-}
+// if (text ==`a` || letter ==`e` || letter == `I` || letter == `i` || leter == `o` || letter == `u`);
+
+// {count++} 
+
 
 
 
